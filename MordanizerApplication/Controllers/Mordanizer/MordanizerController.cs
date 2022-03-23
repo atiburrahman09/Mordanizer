@@ -72,6 +72,7 @@ namespace MordanizerApplication.Controllers.Mordanizer
                         GridView dataGridView1 = new GridView();
                         dataGridView1.DataSource = columnNames;
                         dataGridView1.DataBind();
+
                         //conString = ConfigurationManager.ConnectionStrings["DBCS"].ConnectionString;
                         //using (SqlConnection con = new SqlConnection(conString))
                         //{
