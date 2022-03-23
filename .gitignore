@@ -1,0 +1,4 @@
+
+*.ide-shm
+*.ide-wal
+.vs/MordanizerApplication/v15/.suo
